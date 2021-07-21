@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @devvynl
-- 👀 I’m interested in baking & fitness! 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in baking & fitness 
+- 🌱 I’m currently in a full stack engineering program
+- 📚 A former dental nerd that loves learning & challenging myself
 - 📫 How to reach me devvynm@gmail.com
 
 <!---
