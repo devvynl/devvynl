@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devvynl
 - 🌱 Recently graduated a full stack engineering program
 - 📚 A former dental nerd that loves learning & challenging myself
-- 👀 I love to bake, cook, and work out to eat all the food 
+- 👀 I love to bake, cook, and workout to eat all the food 
 - 📫 How to reach me devvynm@gmail.com
 
 <!---
